@@ -1,0 +1,379 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="top-view-cup-coffee-with-copy-space_23-21483367531" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\top-view-cup-coffee-with-copy-space_23-21483367531.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="top-view-coffee-accessories-with-beans_23-2148336723" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\top-view-coffee-accessories-with-beans_23-2148336723.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="instagram" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\instagram.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="coffee-concept-white-background-white-coffee-cup-top-view-with-watercolor-coffee-splashes-hand-draw-watercolor-coffee-illustration-with-beautiful-art-splashes_165217-7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\coffee-concept-white-background-white-coffee-cup-top-view-with-watercolor-coffee-splashes-hand-draw-watercolor-coffee-illustration-with-beautiful-art-splashes_165217-7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="realistic-white-with-black-coffee_1284-2029" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\realistic-white-with-black-coffee_1284-2029.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="decorative-coffee-beans-leaves-seamless-pattern-suitable-wrapping-paper_2482-402" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\decorative-coffee-beans-leaves-seamless-pattern-suitable-wrapping-paper_2482-402.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="coffee-poster-advertisement-flayers_73621-868" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\coffee-poster-advertisement-flayers_73621-868.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hot-espresso-coffee-bean-white-table_41050-2106" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hot-espresso-coffee-bean-white-table_41050-2106.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="top-view-cup-coffee-with-roasted-beans_52683-32340 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\top-view-cup-coffee-with-roasted-beans_52683-32340 (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mocha1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Mocha1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="โกโก้เย็น1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\โกโก้เย็น1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bgj" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bgj.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bg1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bg1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="โกโก้เย็น" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\โกโก้เย็น.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="000WKRD1DEC873E6E50510j" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\000WKRD1DEC873E6E50510j.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="top-view-cup-coffee-with-copy-space_23-2148336753" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\top-view-cup-coffee-with-copy-space_23-2148336753.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="top-view-cup-coffee-with-roasted-beans_52683-32340 (1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\top-view-cup-coffee-with-roasted-beans_52683-32340 (1)1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="top-view-cup-coffee-with-copy-space_23-2148336753 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\top-view-cup-coffee-with-copy-space_23-2148336753 (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="unnamed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\unnamed.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="u1_231" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\u1_231.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="coffee-beans-with-props-making-coffee_1220-4536" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\coffee-beans-with-props-making-coffee_1220-4536.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="oo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\oo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="llll" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\llll.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pois" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pois.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bg.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pol.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="oip" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\oip.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Greentea Roll" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Greentea Roll.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="top-view-cup-coffee-with-copy-space_23-2148336691" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\top-view-cup-coffee-with-copy-space_23-2148336691.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ppp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ppp.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pol1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pol1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Iced-latte (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Iced-latte (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="facebook" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\facebook.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bgm" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bgm.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="top-view-cup-coffee-with-roasted-beans_52683-32340" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\top-view-cup-coffee-with-roasted-beans_52683-32340.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vintage-hand-drawn-illustration-coffee-grinder-with-croissant-breakfast-concept_1441-1929" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vintage-hand-drawn-illustration-coffee-grinder-with-croissant-breakfast-concept_1441-1929.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="top-view-cup-fresh-black-coffee_52683-32341" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\top-view-cup-fresh-black-coffee_52683-32341.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="0123 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\0123 (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bgf" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bgf.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="coffee-beans-background_1756-449" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\coffee-beans-background_1756-449.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bgk" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bgk.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="americano1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\americano1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pancake1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pancake1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vertical-shot-green-tea-latte-with-milk-white-cup-with-green-leaves-wooden-spoon_181624-772" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vertical-shot-green-tea-latte-with-milk-white-cup-with-green-leaves-wooden-spoon_181624-772.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="line" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\line.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cafe-de-Oasis-5 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cafe-de-Oasis-5 (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Latte" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Latte.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hand-drawn-coffee-drink-background_52683-16134" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hand-drawn-coffee-drink-background_52683-16134.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bgf1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bgf1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sdf" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sdf.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="coffee-poster-advertisement-flayers-vector-illustration_73621-544" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\coffee-poster-advertisement-flayers-vector-illustration_73621-544.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="top-view-cup-coffee-with-roasted-beans_52683-323401" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\top-view-cup-coffee-with-roasted-beans_52683-323401.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="top-view-cup-coffee-with-copy-space_23-2148336753 (1) (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\top-view-cup-coffee-with-copy-space_23-2148336753 (1) (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="coffe-time_18591-34563" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\coffe-time_18591-34563.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mocha" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Mocha.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="top-view-cup-coffee-with-roasted-beans_52683-323402" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\top-view-cup-coffee-with-roasted-beans_52683-323402.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="morning-cup-coffee-with-spoon-love-sign-vector-clip-art-illustration_138676-101" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\morning-cup-coffee-with-spoon-love-sign-vector-clip-art-illustration_138676-101.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="coffee-beans-with-props-making-coffee_1220-4536 (1) (1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\coffee-beans-with-props-making-coffee_1220-4536 (1) (1)1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hhh1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hhh1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hhh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hhh.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bgg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bgg.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pancake" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pancake.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="0123" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\0123.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="coffet-time_24877-6619" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\coffet-time_24877-6619.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="po]]" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\po]].jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="coffee-banner-realistic-coffee-beans-illustration_190024-127" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\coffee-banner-realistic-coffee-beans-illustration_190024-127.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="twitter" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\twitter.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="576 (1) (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\576 (1) (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="u1_23" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\u1_23.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cup-coffee-with-coffee-beans-wooden-background_43605-2933" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cup-coffee-with-coffee-beans-wooden-background_43605-2933.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Iced-latte (1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Iced-latte (1)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="qr-code" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\qr-code.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="0cfe554dc844bd0055f2ae585fd6d849 (1) (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\0cfe554dc844bd0055f2ae585fd6d849 (1) (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cafe-de-Oasis-5 (1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cafe-de-Oasis-5 (1)1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="0gcx" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\0gcx.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="americano" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\americano.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="coffee-beans-with-props-making-coffee_1220-4536 (1) (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\coffee-beans-with-props-making-coffee_1220-4536 (1) (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="seamless-pattern-with-coffee-sweet-coffee-background_87506-756" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\seamless-pattern-with-coffee-sweet-coffee-background_87506-756.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="coffee-beans-with-props-making-coffee_1220-4536 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\coffee-beans-with-props-making-coffee_1220-4536 (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ppp1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ppp1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="900" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\900.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="0cfe554dc844bd0055f2ae585fd6d849" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\0cfe554dc844bd0055f2ae585fd6d849.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Latte1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Latte1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="coffee-shop-neon-logo_75817-953" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\coffee-shop-neon-logo_75817-953.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="0cfe554dc844bd0055f2ae585fd6d849 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\0cfe554dc844bd0055f2ae585fd6d849 (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Greentea Roll1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Greentea Roll1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
