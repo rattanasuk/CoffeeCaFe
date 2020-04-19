@@ -1,0 +1,9 @@
+C:\Users\hj\source\repos\Coffee_Login\Coffee_Login\bin\Debug\Coffee_Login.exe.config
+C:\Users\hj\source\repos\Coffee_Login\Coffee_Login\bin\Debug\Coffee_Login.exe
+C:\Users\hj\source\repos\Coffee_Login\Coffee_Login\bin\Debug\Coffee_Login.pdb
+C:\Users\hj\source\repos\Coffee_Login\Coffee_Login\obj\Debug\Coffee_Login.csprojAssemblyReference.cache
+C:\Users\hj\source\repos\Coffee_Login\Coffee_Login\obj\Debug\Coffee_Login.Form1.resources
+C:\Users\hj\source\repos\Coffee_Login\Coffee_Login\obj\Debug\Coffee_Login.Properties.Resources.resources
+C:\Users\hj\source\repos\Coffee_Login\Coffee_Login\obj\Debug\Coffee_Login.csproj.GenerateResource.cache
+C:\Users\hj\source\repos\Coffee_Login\Coffee_Login\obj\Debug\Coffee_Login.exe
+C:\Users\hj\source\repos\Coffee_Login\Coffee_Login\obj\Debug\Coffee_Login.pdb

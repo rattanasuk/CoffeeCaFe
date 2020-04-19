@@ -1,0 +1,11 @@
+C:\Users\hj\source\repos\CoffeeCaFe_1\CoffeeCaFe_1\bin\Debug\CoffeeCaFe_1.exe.config
+C:\Users\hj\source\repos\CoffeeCaFe_1\CoffeeCaFe_1\bin\Debug\CoffeeCaFe_1.exe
+C:\Users\hj\source\repos\CoffeeCaFe_1\CoffeeCaFe_1\bin\Debug\CoffeeCaFe_1.pdb
+C:\Users\hj\source\repos\CoffeeCaFe_1\CoffeeCaFe_1\obj\Debug\CoffeeCaFe_1.csprojAssemblyReference.cache
+C:\Users\hj\source\repos\CoffeeCaFe_1\CoffeeCaFe_1\obj\Debug\CoffeeCaFe_1.Form1.resources
+C:\Users\hj\source\repos\CoffeeCaFe_1\CoffeeCaFe_1\obj\Debug\CoffeeCaFe_1.Form2.resources
+C:\Users\hj\source\repos\CoffeeCaFe_1\CoffeeCaFe_1\obj\Debug\CoffeeCaFe_1.Form3.resources
+C:\Users\hj\source\repos\CoffeeCaFe_1\CoffeeCaFe_1\obj\Debug\CoffeeCaFe_1.Properties.Resources.resources
+C:\Users\hj\source\repos\CoffeeCaFe_1\CoffeeCaFe_1\obj\Debug\CoffeeCaFe_1.csproj.GenerateResource.cache
+C:\Users\hj\source\repos\CoffeeCaFe_1\CoffeeCaFe_1\obj\Debug\CoffeeCaFe_1.exe
+C:\Users\hj\source\repos\CoffeeCaFe_1\CoffeeCaFe_1\obj\Debug\CoffeeCaFe_1.pdb

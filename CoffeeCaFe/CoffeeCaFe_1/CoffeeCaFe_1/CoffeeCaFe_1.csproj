@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{958EA4F2-CE6E-4F2B-A671-4C780E79335A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CoffeeCaFe_1</RootNamespace>
+    <AssemblyName>CoffeeCaFe_1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\top-view-cup-coffee-with-roasted-beans_52683-32340.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\top-view-cup-coffee-with-roasted-beans_52683-323401.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\top-view-cup-coffee-with-roasted-beans_52683-32340 %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee-banner-realistic-coffee-beans-illustration_190024-127.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee-beans-background_1756-449.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee-beans-with-props-making-coffee_1220-4536.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee-concept-white-background-white-coffee-cup-top-view-with-watercolor-coffee-splashes-hand-draw-watercolor-coffee-illustration-with-beautiful-art-splashes_165217-7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee-poster-advertisement-flayers_73621-868.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee-poster-advertisement-flayers-vector-illustration_73621-544.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee-shop-neon-logo_75817-953.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffe-time_18591-34563.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffet-time_24877-6619.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cup-coffee-with-coffee-beans-wooden-background_43605-2933.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\decorative-coffee-beans-leaves-seamless-pattern-suitable-wrapping-paper_2482-402.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand-drawn-coffee-drink-background_52683-16134.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hot-espresso-coffee-bean-white-table_41050-2106.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\morning-cup-coffee-with-spoon-love-sign-vector-clip-art-illustration_138676-101.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\realistic-white-with-black-coffee_1284-2029.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seamless-pattern-with-coffee-sweet-coffee-background_87506-756.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\top-view-coffee-accessories-with-beans_23-2148336723.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\top-view-cup-coffee-with-copy-space_23-2148336691.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\top-view-cup-coffee-with-copy-space_23-2148336753.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\top-view-cup-coffee-with-roasted-beans_52683-32340 %281%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\top-view-cup-coffee-with-roasted-beans_52683-323402.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\top-view-cup-fresh-black-coffee_52683-32341.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vintage-hand-drawn-illustration-coffee-grinder-with-croissant-breakfast-concept_1441-1929.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee-beans-with-props-making-coffee_1220-4536 %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee-beans-with-props-making-coffee_1220-4536 %281%29 %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0cfe554dc844bd0055f2ae585fd6d849.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0cfe554dc844bd0055f2ae585fd6d849 %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0cfe554dc844bd0055f2ae585fd6d849 %281%29 %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgf.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgj.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgk.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\llll.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ppp.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
