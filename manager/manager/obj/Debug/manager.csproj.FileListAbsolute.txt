@@ -1,0 +1,9 @@
+C:\Users\hj\source\repos\manager\manager\bin\Debug\manager.exe.config
+C:\Users\hj\source\repos\manager\manager\bin\Debug\manager.exe
+C:\Users\hj\source\repos\manager\manager\bin\Debug\manager.pdb
+C:\Users\hj\source\repos\manager\manager\obj\Debug\manager.csprojAssemblyReference.cache
+C:\Users\hj\source\repos\manager\manager\obj\Debug\manager.Form1.resources
+C:\Users\hj\source\repos\manager\manager\obj\Debug\manager.Properties.Resources.resources
+C:\Users\hj\source\repos\manager\manager\obj\Debug\manager.csproj.GenerateResource.cache
+C:\Users\hj\source\repos\manager\manager\obj\Debug\manager.exe
+C:\Users\hj\source\repos\manager\manager\obj\Debug\manager.pdb
